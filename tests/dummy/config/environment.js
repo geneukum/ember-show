@@ -21,15 +21,14 @@ module.exports = function (environment) {
     },
 
     'field-guide': {
-      name: 'Product Name',
-      copyright:
-        'This is the default copyright string - update before publishing',
+      name: 'Ember Show Addon',
+      tagLine: 'Field Guide',
 
       social: [
         {
           name: 'github',
-          title: 'Design System Documentation - Repository',
-          link: 'https://github.com/empress/field-guide?update-with-your-repo-url',
+          title: 'Ember Show Addon',
+          link: 'https://github.com/geneukum/ember-show',
         },
       ],
     },

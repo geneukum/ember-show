@@ -1,14 +1,16 @@
 # ember-show
 
-[Short description of the addon.]
+[Ember modifier](https://github.com/ember-modifier/ember-modifier) to toggle showing/hiding an element.
 
+The difference between this and conditionally rendering content via the `if`/`unless` helpers is that
+an element marked with the `show` modifier will always be rendered and remain in the DOM; the `show`
+modifier only toggles the display property of the element.
 
 ## Compatibility
 
-* Ember.js v3.28 or above
-* Ember CLI v3.28 or above
-* Node.js v14 or above
-
+- Ember.js v3.28 or above
+- Ember CLI v3.28 or above
+- Node.js v14 or above
 
 ## Installation
 
@@ -16,16 +18,17 @@
 ember install ember-show
 ```
 
-
 ## Usage
 
-[Longer description of how to use the addon in apps.]
+You can use this modifier like you would with any other EmberJS modifier.
 
+```
+<div {{show this.shouldShowDiv}}>Hello World!</div>
+```
 
 ## Contributing
 
 See the [Contributing](CONTRIBUTING.md) guide for details.
-
 
 ## License
 
