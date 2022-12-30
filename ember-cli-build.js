@@ -21,5 +21,7 @@ module.exports = function (defaults) {
         package: 'qunit',
       },
     ],
+    // field-guide uses dynamic components internally
+    staticComponents: false,
   });
 };
