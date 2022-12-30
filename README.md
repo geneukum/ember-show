@@ -26,6 +26,8 @@ You can use this modifier like you would with any other EmberJS modifier.
 <div {{show this.shouldShowDiv}}>Hello World!</div>
 ```
 
+See the [API Docs](https://ember-show.netlify.app) for additional information / demos.
+
 ## Contributing
 
 See the [Contributing](CONTRIBUTING.md) guide for details.
