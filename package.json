@@ -5,9 +5,9 @@
   "keywords": [
     "ember-addon"
   ],
-  "repository": "",
+  "repository": "github:geneukum/ember-show",
   "license": "MIT",
-  "author": "",
+  "author": "Geordan Neukum <gneukum1@gmail.com>",
   "directories": {
     "doc": "doc",
     "test": "tests"
