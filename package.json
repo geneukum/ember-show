@@ -1,6 +1,6 @@
 {
   "name": "ember-show",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Ember modifier for conditionally displaying an element.",
   "keywords": [
     "addon",
