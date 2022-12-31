@@ -3,7 +3,13 @@
   "version": "0.1.1",
   "description": "Ember modifier for conditionally displaying an element.",
   "keywords": [
-    "ember-addon"
+    "addon",
+    "ember",
+    "ember-addon",
+    "ember-modifier",
+    "modifier",
+    "show",
+    "visibility"
   ],
   "repository": "github:geneukum/ember-show",
   "license": "MIT",
